@@ -1,6 +1,8 @@
 # NeuroHistory
 
-This is a crowd-sourced collections of the 'best' papers from history, in neuroscience.
+This is a collections of the 'best' papers from history, in neuroscience. It is mostly crowd-sourced, from Twitter, with the call simply being: 'what are your favourite old papers, from before ~1970'. 
+
+My motivation in this call was 
 
 
 ## Papers
@@ -19,6 +21,21 @@ This is a crowd-sourced collections of the 'best' papers from history, in neuros
 
 - McCulloch & Pitts (1943) A Logical Calculus of the Ideas Immanent in Nervous Activity
 
+- Sperry (1945) The Problem of Central Nervous Reorganization After Nerve Regeneration and Muscle Transposition
+
+- Tolman (1948) Cognitive Maps in Rats and Men
+
+- Magoun (1949) Brain Stem Reticular Formation and Activation of the EEG
+
+- Von Holst & Mittelstaedt (1950) The Principle of Reafference: Interactions Between the Central Nervous System and the Peripheral Organs
+
+- Hodgkin & Huxley (1952) A Quantitative Description of Membrane Current and it's Application to Conduction and Excitation in Nerve
+
+- Sperry (1952) Neurology and the Mind-Brain Problem
+
+- Estes & Burke (1953) A Theory of Stimulus Variability in Learning
+
+- Olds & Milner (1954) Positive Reinforcement Produced by Electrical Stimulation of Septal Area and Other Regions of the Rat Brain
 
 
 

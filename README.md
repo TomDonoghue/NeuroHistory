@@ -2,7 +2,9 @@
 
 This is a collections of the 'best' papers from history, in neuroscience. It is mostly crowd-sourced, from Twitter, with the call simply being: 'what are your favourite old papers, from before ~1970'. 
 
-My motivation in this call was 
+For me, the motivation for looking through old papers comes 
+
+What I'm particularly interested in, 
 
 
 ## Papers
@@ -37,7 +39,21 @@ My motivation in this call was
 
 - Olds & Milner (1954) Positive Reinforcement Produced by Electrical Stimulation of Septal Area and Other Regions of the Rat Brain
 
+- Hartline & Ratliff (1957) Inhibitory Interaction of Receptor Units in the Eye of Limulus
 
+- Hubel & Weisel (1962) Receptive Fields, Binocular Interaction and Functional Architecture in the Cat's Visual Cortex
+
+- Bishop, Elder & Heath (1963) Intracranial Self-Stimulatin in Man
+
+- Rojas & Luxoro (1963) Micro-Injection of Trypsin into Axons of Squid
+
+- Dole & Nyswander (1965) A Medical Treatment for Diacetylmorphine (Heroin) Addiction: A Clinical Trial with Methadone Hydrochloride
+
+- Guilford & Hopefner (1966) Sixteen Divergent-Production Abilities at the Ninth-Grade Level
+
+- Lettvin, Maturan, McCulloch & Pitts (1968) What the Frog's Eye Tells the Frog's Brain
+
+- 
 
 
 

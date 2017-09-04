@@ -41,13 +41,17 @@ Disclaimers:
 
 - Von Holst & Mittelstaedt (1950) The Principle of Reafference: Interactions Between the Central Nervous System and the Peripheral Organs
 
-- Li, McLennan & Jasper (1952) Brain Waves and Unit Discharge in Cerebral Cortex
-
 - Hodgkin & Huxley (1952) A Quantitative Description of Membrane Current and it's Application to Conduction and Excitation in Nerve
+
+- Fatt & Katz (1951) Spontaneous Subthreshold Activity at Motor Nerve Endings
+
+- Li, McLennan & Jasper (1952) Brain Waves and Unit Discharge in Cerebral Cortex
 
 - Sperry (1952) Neurology and the Mind-Brain Problem
 
 - Estes & Burke (1953) A Theory of Stimulus Variability in Learning
+
+- Del Castillo & Katz (1954) Quantal Components of the End Plate Potential
 
 - Olds & Milner (1954) Positive Reinforcement Produced by Electrical Stimulation of Septal Area and Other Regions of the Rat Brain
 

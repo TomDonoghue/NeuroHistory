@@ -2,17 +2,20 @@
 
 This is a collections of the 'best' papers from history, in neuroscience. It is mostly crowd-sourced, from Twitter, with the call simply being: 'what are your favourite old papers, from before ~1970'. 
 
-For me, the motivation for looking through old papers comes from reading old papers in my area and being amazed by what they were able to do, and realizing that many ideas are way older than I expected. I was quite stunned at the great insights that were made despite relatively sparse data, often underpinning ideas that are still very much current, and wanted to explore neuro-history a bit more generally. 
+This is the original thread from twitter: https://twitter.com/Tomdonoghue/status/902682799412453376
+Many thanks to everyone who made comments and suggestions there. 
 
 Hopefully, this collection reflects a historical road map of modern neuroscience, by highlighting a selection of amazing papers, some known classics, others hidden gems, that present grand ideas laying the foundations of where we are today. 
+
+For me, the motivation for looking through old papers comes from reading old papers in my area and being amazed by what they were able to do, and realizing that many ideas are way older than I expected. I was quite stunned at the great insights that were made despite relatively sparse data, often underpinning ideas that are still very much current, and wanted to explore neuro-history a bit more generally. If you haven't gone back and read some of the early paper in your area - I highly recommend it. 
 
 This will also, hopefully, be a living and updated collection - so feel free to make suggestions for new additions. There isn't really any selection criterion, other than being 'old' (arbitrarily defined as pre ~1970), and also that are reasonable broad in scope, so that they are interesting to a fairly broad audience. 
 
 You can make suggestions on Twitter @TomDonoghue, and/or by adding a comment as a Github issue on here. 
 
 Disclaimers:
-  - This list, as assembled, is fairly arbitrary, and probably missing many important contributions - it makes no claim to be complete, and is provided merely that it may be interesting and useful to other. 
-  - I have also not yet read the majority of these papers, so I offer no guarantees they meet they lofty ideals of above.
+  - This list, as assembled, is fairly arbitrary, and probably missing many important contributions - it makes no claim to be complete, and is provided simply since it may be interesting to others. 
+  - I have also not yet read the majority of these papers, so I offer no guarantees they meet the lofty ideals of above.
 
 ## Papers
 

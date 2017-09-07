@@ -22,9 +22,12 @@ Disclaimers:
 - Cajal (1894) Les Nouvelles Idees sur la Structure du Systeme Nerveux chez L'Homme et chez les Vertebres
   - Originally in French. Translation: New ideas on the structure of the nervous system in man and vertibrates
 
+- Lapicque (1907) Recherches Quantitatives sur L'Excitation Electrique des Nerfs Traitee Comme une Polarisation
+  - Originally in French: Translation: Quantitative Research on Electrical Excitation treated like Polarization
+
 - Lunsden (1923) Observations on the Respiratory Centers in the Cat
 
-- Haldana (1926) On Being the Right Size
+- Haldane (1926) On Being the Right Size
 
 - Waelder (1936) The Principle of Multiple Function: Observations on Over-Determination
 

@@ -23,7 +23,7 @@ Disclaimers:
   - Originally in French. Translation: New ideas on the structure of the nervous system in man and vertibrates
 
 - Lapicque (1907) Recherches Quantitatives sur L'Excitation Electrique des Nerfs Traitee Comme une Polarisation
-  - Originally in French: Translation: Quantitative Research on Electrical Excitation treated like Polarization
+  - Originally in French. Translation: Quantitative Research on Electrical Excitation treated like Polarization
 
 - Lunsden (1923) Observations on the Respiratory Centers in the Cat
 

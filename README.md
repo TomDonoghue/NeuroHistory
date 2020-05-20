@@ -1,22 +1,22 @@
 # NeuroHistory
 
-This is a collections of the 'best' papers from history, in neuroscience. It is mostly crowd-sourced, from Twitter, with the call simply being: 'what are your favourite old papers, from before ~1970'. 
+This is a collections of the 'best' neuroscience papers from history. It is mostly crowd-sourced, from a
+[Twitter thread](https://twitter.com/Tomdonoghue/status/902682799412453376), with the prompt of: 'what are your favourite old papers, from before ~1970'. Many thanks to everyone who made comments and suggestions. 
 
-This is the original thread from twitter: https://twitter.com/Tomdonoghue/status/902682799412453376
-Many thanks to everyone who made comments and suggestions there. 
+Hopefully, this collection reflects an interesting collection of historical work in neuroscience, by highlighting a selection of cool papers. Some of these papers are known as classics, where as others are more 'hidden gems'.
 
-Hopefully, this collection reflects a historical road map of modern neuroscience, by highlighting a selection of amazing papers, some known classics, others hidden gems, that present grand ideas laying the foundations of where we are today. 
-
-For me, the motivation for looking through old papers comes from reading old papers in my area and being amazed by what they were able to do, and realizing that many ideas are way older than I expected. I was quite stunned at the great insights that were made despite relatively sparse data, often underpinning ideas that are still very much current, and wanted to explore neuro-history a bit more generally. If you haven't gone back and read some of the early paper in your area - I highly recommend it. 
+The motivation for looking through more old papers came from reading some old papers in my area and being amazed by what they were able to do. I realized that many ideas are way older than I expected. I was quite stunned at the great insights that were made despite relatively sparse data, often underpinning ideas that are still very much current, and wanted to explore neuro-history a bit more generally. If you haven't gone back and read some of the early paper in your area - I highly recommend it. 
 
 This will also, hopefully, be a living and updated collection - so feel free to make suggestions for new additions. There isn't really any selection criterion, other than being 'old' (arbitrarily defined as pre ~1970), and also that are reasonable broad in scope, so that they are interesting to a fairly broad audience. 
 
-You can make suggestions on Twitter @TomDonoghue, and/or by adding a comment as a Github issue on here. 
+If you have any suggestions for this list, you can get in touch on Twitter 
+[@TomDonoghue](https://twitter.com/TomDonoghue)
+, and/or by adding a comment as a Github issue on here. 
 
 Disclaimers:
-  - This list, as assembled, is fairly arbitrary, and probably missing many important contributions - it makes no claim to be complete, and is provided simply since it may be interesting to others. 
-  - I have also not yet read the majority of these papers, so I offer no guarantees they meet the lofty ideals of above.
-
+  - This list is fairly arbitrary, and probably missing many important contributions.
+  - I have not read all of these papers, so no guarantees on individual entires
+  
 ## Papers
 
 - Cajal (1894) Les Nouvelles Idees sur la Structure du Systeme Nerveux chez L'Homme et chez les Vertebres
